@@ -7,6 +7,7 @@
 //function takes two inputs (elements to swap)
 //outputs array w/ selected elements in swapped places
 //2nd function takes swapped array and reverses it
+
 'use strict';
 function swap(arr, pos1, pos2){
   var orig1 = arr[pos1];
